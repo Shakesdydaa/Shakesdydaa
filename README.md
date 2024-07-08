@@ -83,22 +83,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
 
-<br/> 
 
-<details open> 
-<summary><b>:octocat:	&nbsp;&nbsp;Github Stats</b></summary>
-
-<br/> 
-
-<div align="center">
-<a align=top href="https://github.com/giocoal">
-    <img align=top src="https://github-stats-alpha.vercel.app/api?username=giocoal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
-</a>
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giocoal&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
-</div>
-
-</details> 
 
 </br>
 
