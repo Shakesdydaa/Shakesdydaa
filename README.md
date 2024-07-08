@@ -46,7 +46,7 @@
 
 <div align="left" style="margin-top:20px;">
 
-* 📖 **Bachelor's Degree** in **Statistics** @ [https://www.tum.ac.ke/]([https://www.tum.ac.ke/]).
+* 📖 **Bachelor's Degree** in **Statistics** @ ([https://www.tum.ac.ke/]).
 * 📍 I'm from Kenya, living in Nairobi. 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
